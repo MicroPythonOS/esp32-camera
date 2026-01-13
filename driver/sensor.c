@@ -39,7 +39,7 @@ const resolution_info_t resolution[FRAMESIZE_INVALID] = {
     {  720,  720, ASPECT_RATIO_1X1   }, /* 720x720 */
     {  800,  600, ASPECT_RATIO_4X3   }, /* SVGA  */
     {  800,  800, ASPECT_RATIO_1X1   }, /* 800x800 */
-    {  900,  900, ASPECT_RATIO_1X1   }, /* 900x900 */
+    {  960,  960, ASPECT_RATIO_1X1   }, /* 960x960 */
     { 1024,  768, ASPECT_RATIO_4X3   }, /* XGA   */
     { 1280,  720, ASPECT_RATIO_16X9  }, /* HD    */
     { 1024, 1024, ASPECT_RATIO_1X1   }, /* 1024x1024 */
